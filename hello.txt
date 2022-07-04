@@ -1,9 +1,12 @@
 这是NYfLAmE的第一个由git托管的本地库中的文件夹
 这是文件末尾的第一行
+this is a modified version 22222222
+this is a modified version 33333333
 this is a modified version
 this is a modified version
 this is a modified version
 this is a modified version
 this is a modified version
-this is a modified version
-this is a modified version
+
+
+this is a vim modified version
